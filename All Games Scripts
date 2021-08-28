@@ -1,0 +1,12 @@
+READ ME
+Scripts that won't work I recommend installing krnl
+
+loadstring(game:HttpGet("http://assasine.com/Scripts/All%20Star%20Tower%20Defense.lua", true))() = All Star Tower defense
+
+loadstring(game:HttpGet("https://bruh.keshsenpai.com/.lua"))() = Shindo Life
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Natthawat69/EvilHub-FREE/main/Script.lua"))() = Blox Fruits
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Evolution/Main/main/Loader.lua"))() = Asernal
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jaaaaay2/MahScriptHub/master/AFS%20Remastered"))() = Anime Fighting Simulator
